@@ -2,9 +2,10 @@ package friends.firstpackage;
 
 public class Stack {
     int[] arrStack;
-
+    int index = 0;
     public Stack(int count) {
         this.arrStack = new int[count];
+
     }
 
     public void push(Integer e) {
@@ -12,6 +13,7 @@ public class Stack {
 
             if (arrStack[i] == 0) {
                 arrStack[i] = e;
+                index++;
                 break;
             }
         }
@@ -24,6 +26,7 @@ public class Stack {
         for (int i = arrStack.length - 1; i >= 0; i--) {
             if (arrStack[i] != 0) {
                 arrStack[i] = 0;
+                index--;
                 break;
             }
         }
@@ -53,6 +56,9 @@ public class Stack {
            System.out.print("[ "+arrStack[i]+" ]");
         }
         System.out.println();
+        System.out.println("Stos składa się z " + arrStack.length + " elementów");
+        System.out.println("Aktualny wskaźnik stosu: " + index);
+
         return "Done!";
     }
 
