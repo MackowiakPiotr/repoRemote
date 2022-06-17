@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd67bef1-4abf-4676-ad37-f94fcbfb0463" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/friends/firstpackage/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/friends/firstpackage/MultiplyFromNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/friends/firstpackage/PESEL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/friends/firstpackage/SmsReducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/friends/firstpackage/Stack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/friends/firstpackage/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/friends/firstpackage/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/friends/firstpackage/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/friends/firstpackage/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +48,20 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SmsReducer">
+  <component name="RunManager" selected="Application.friends.firstpackage.Main">
+    <configuration name="Car$CarApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="friends.firstpackage.Car$CarApplication" />
+      <module name="repoRemote" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="friends.firstpackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SmsReducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="friends.firstpackage.SmsReducer" />
       <module name="repoRemote" />
@@ -79,8 +90,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SmsReducer" />
         <item itemvalue="Application.friends.firstpackage.Main" />
+        <item itemvalue="Application.Car$CarApplication" />
+        <item itemvalue="Application.SmsReducer" />
       </list>
     </recent_temporary>
   </component>
