@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd67bef1-4abf-4676-ad37-f94fcbfb0463" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/friends/firstpackage/IntArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/friends/firstpackage/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/friends/firstpackage/AccountApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/friends/firstpackage/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/friends/firstpackage/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/friends/firstpackage/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/friends/firstpackage/Stack.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,20 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.friends.firstpackage.Main">
+  <component name="RunManager" selected="Application.AccountApplication">
+    <configuration name="AccountApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="friends.firstpackage.AccountApplication" />
+      <module name="repoRemote" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="friends.firstpackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Car$CarApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="friends.firstpackage.Car$CarApplication" />
       <module name="repoRemote" />
@@ -90,6 +103,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AccountApplication" />
         <item itemvalue="Application.friends.firstpackage.Main" />
         <item itemvalue="Application.Car$CarApplication" />
         <item itemvalue="Application.SmsReducer" />

@@ -31,26 +31,28 @@ public class Main {
 //        System.out.println(stack.isFull());
 
 
-        IntArray intArray = new IntArray();
+//        IntArray intArray = new IntArray();
+//
+//        intArray.add(23);
+//        intArray.add(16);
+//        intArray.add(9);
+//        intArray.add(3);
+//        intArray.add(78);
+//        System.out.println(intArray);
+//        intArray.add(6);
+//        System.out.println(intArray);
+//        intArray.add(67);
+//        intArray.add(43);
+//        intArray.add(17);
+//        intArray.add(19);
+//        intArray.add(18);
+//        System.out.println(intArray);
+//        System.out.println(intArray.get(5));
+//        intArray.remove(9);
+//        intArray.swap(2,17);
+//        System.out.println(intArray);
 
-        intArray.add(23);
-        intArray.add(16);
-        intArray.add(9);
-        intArray.add(3);
-        intArray.add(78);
-        System.out.println(intArray);
-        intArray.add(6);
-        System.out.println(intArray);
-        intArray.add(67);
-        intArray.add(43);
-        intArray.add(17);
-        intArray.add(19);
-        intArray.add(18);
-        System.out.println(intArray);
-        System.out.println(intArray.get(5));
-        intArray.remove(9);
-        intArray.swap(2,17);
-        System.out.println(intArray);
+
 
 
     }
