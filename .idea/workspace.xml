@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd67bef1-4abf-4676-ad37-f94fcbfb0463" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/friends/firstpackage/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/friends/firstpackage/AccountApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/friends/firstpackage/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/friends/firstpackage/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/friends/firstpackage/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/friends/firstpackage/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/friends/firstpackage/AccountApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/friends/firstpackage/AccountApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +42,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/projekty sda/projekt1/repoRemote",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
