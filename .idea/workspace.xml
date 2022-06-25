@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="dd67bef1-4abf-4676-ad37-f94fcbfb0463" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/friends/firstpackage/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/friends/firstpackage/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/friends/firstpackage/AccountApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/friends/firstpackage/AccountApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +21,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://C:/Program Files/Eclipse Adoptium/jdk-17.0.3.7-hotspot/lib/src.zip!/java.base/java/util/Random.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -45,16 +46,17 @@
     "last_opened_file_path": "D:/projekty sda/projekt1/repoRemote",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.AccountApplication">
-    <configuration name="AccountApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="friends.firstpackage.AccountApplication" />
+  <component name="RunManager" selected="Application.zadanieKodillaLoty.Main">
+    <configuration name="zadanie17.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zadanie17.Main" />
       <module name="repoRemote" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="friends.firstpackage.*" />
+          <option name="PATTERN" value="zadanie17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Car$CarApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="friends.firstpackage.Car$CarApplication" />
+    <configuration name="zadanie18.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zadanie18.Main" />
       <module name="repoRemote" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="friends.firstpackage.*" />
+          <option name="PATTERN" value="zadanie18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SmsReducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="friends.firstpackage.SmsReducer" />
+    <configuration name="zadanie19.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zadanie19.Main" />
       <module name="repoRemote" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="friends.firstpackage.*" />
+          <option name="PATTERN" value="zadanie19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +90,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="friends.firstpackage.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="friends.firstpackage.Main" />
+    <configuration name="zadanie20.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zadanie20.Main" />
       <module name="repoRemote" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="friends.firstpackage.*" />
+          <option name="PATTERN" value="zadanie20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zadanieKodillaLoty.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zadanieKodillaLoty.Main" />
+      <module name="repoRemote" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zadanieKodillaLoty.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,10 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AccountApplication" />
-        <item itemvalue="Application.friends.firstpackage.Main" />
-        <item itemvalue="Application.Car$CarApplication" />
-        <item itemvalue="Application.SmsReducer" />
+        <item itemvalue="Application.zadanieKodillaLoty.Main" />
+        <item itemvalue="Application.zadanie20.Main" />
+        <item itemvalue="Application.zadanie19.Main" />
+        <item itemvalue="Application.zadanie18.Main" />
+        <item itemvalue="Application.zadanie17.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -131,6 +147,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/repoRemote$Reducer.ic" NAME="Reducer Coverage Results" MODIFIED="1655235874716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
